@@ -23,6 +23,6 @@ Before running ColorExtractor, you need to have installed:
 
    ```bash
    git clone https://github.com/fbreseghello/ColorExtractor.git
-OR just download it and exec ColorExtractorV2.exe
+OR just download [this folder](https://github.com/fbreseghello/ColorExtractor/tree/main/ColorExtractor) and exec ColorExtractorV2.exe
 
 ![image](https://github.com/user-attachments/assets/d2d69a58-2646-4ee3-8b8d-0df71c8dccff)
